@@ -1241,7 +1241,6 @@ body{
     .box01_content .box01_p{
         font-size: 1rem;
         line-height: 1.6rem;
-        font-family:楷体,Arial,Helvetica,Verdana;  /* 列出一些备选字体，当楷体不可用时，浏览器会选择其中一个备选字体 */
     }
     
     .box02_content{
